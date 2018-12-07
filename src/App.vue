@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>Platzi Music</h1>
-    <img src="./assets/logo.png">
+    <img src="https://juliamoreno.github.io/platzimusic/dist/logo.png">
 
   <div class="form-group mt-7">
     <select class="form-control" v-model="selectedCountry">
